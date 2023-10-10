@@ -50,9 +50,6 @@ Welcome to my GitHub world! I'm a passionate techie who dives deep into cybersec
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
