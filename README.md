@@ -6,7 +6,7 @@
   Hey 👋, I'm Vishal Ravi!
 </p>
 
- <p align="center">
+ <p align="justify">
      <samp>
 Passionate and dynamic <b>Computer Science student</b> on an endless quest for knowledge and innovation. 🌐 Aspiring <b>cybersecurity enthusiast</b> and <b> data analysis aficionado </b>with a knack for crafting seamless user experiences. 💻 <b>Former Data Analyst</b> Intern at CIODS, where I translated raw data into strategic insights. 🔍 Pioneering bioinformatics with the creation of BioCue, a cutting-edge tool contributing to groundbreaking research. 👾 Core member of Yitembedded club at Yenepoya, fostering collaboration and innovation in the tech ecosystem. 🚀 Proficient in XD & Figma, skillfully blending functionality with aesthetics as a Design Enthusiast. Committed to fortifying the digital realm in the ever-evolving landscape of cybersecurity. 🎨 A visionary Embedded Systems Aficionado, dedicated to creating smart, interconnected devices for enhanced efficiency and connectivity.<br><br>
   </samp>
