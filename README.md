@@ -12,8 +12,8 @@ Passionate and dynamic <b>Computer Science student</b> on an endless quest for k
   </samp>
   </p>
     <p align="center">
-<a href="www.linkedin.com/in/vishalravi294" target="blank"><img align="center" src="./icons8-linkedin-192(-xxxhdpi).png" alt="aksia" height="40" width="40" /></a>
- <a href = "mailto:dev.vishalravi@gmail.com"><img align="center" src="./icons8-gmail-288(-xxhdpi).png" height="40" width="40" /></a>
+<a href="www.linkedin.com/in/vishalravi294"target="blank"><img align="center" src="./icons8-linkedin-192(-xxxhdpi).png" alt="aksia" height="40" width="40" /></a>
+ <a href ="mailto:dev.vishalravi@gmail.com"><img align="center" src="./icons8-gmail-288(-xxhdpi).png" height="40" width="40" /></a>
          <a href="https://twitter.com/VishalR00038042" target="_blank"><img align="center" src="./icons8-twitter-192(-xxxhdpi).png" alt="Twitter" height="40" width="40" /></a>
          <a href="https://www.instagram.com/mystic_man02/" target="_blank"><img align="center" src="./icons8-instagram-384(-xxxhdpi).png" alt="Instagram" height="40" width="40" /></a>
           <a href="https://dev.to/vishalravi" target="_blank"><img align="center" src="https://cdn.simpleicons.org/dev.to/white" alt="Dev.to" height="50" width="40" /></a>
