@@ -320,11 +320,6 @@ Specializing in **predictive modeling**, **data visualization**, and **automated
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-ravi&theme=gradient&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=ffd700&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=667eea&sideLabels=667eea&dates=ffffff&border=333333" alt="GitHub Streak"/>
 </div>
 
-<!-- ⏰ Advanced Development Time -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vishal-ravi&theme=gradient&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&border_color=333333" alt="Coding Time Stats"/>
-</div>
-
 <!-- 📊 Advanced Contribution Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-ravi&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true&radius=8" alt="Contribution Graph"/>
