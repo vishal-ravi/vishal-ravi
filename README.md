@@ -114,90 +114,18 @@ Deployment: Container-first · Immutable artifacts · Rolling strategies
 
 ---
 
-## 🧪 Featured Projects (Card View)
+## 🧪 Featured Projects (Quick View)
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-  <div style="border:1px solid #2E9EF7;border-radius:10px;padding:14px;margin:6px;background:#0d1117;">
-  <h3>🎯 ReqNinja</h3>
-  <p><strong>Type:</strong> API Testing & Automation CLI</p>
-  <p>Merges curl ergonomics with Python's requests power: retries, env profiles, batch mode, rich formatting, multi-auth.</p>
-  <p><strong>Impact:</strong> Accelerated debugging & scripting workflows.</p>
-  <p><strong>Stack:</strong> Python · Typer · Rich · Requests · GitHub Actions</p>
-  <p><a href="https://github.com/vishal-ravi/reqninja">Repository →</a></p>
-  </div>
-</td>
-<td width="50%">
-  <div style="border:1px solid #6A5ACD;border-radius:10px;padding:14px;margin:6px;background:#0d1117;">
-  <h3>🔬 Biocue</h3>
-  <p><strong>Type:</strong> Research Curation NLP</p>
-  <p>Ingests PubMed, applies relevance scoring, keyword extraction & topic grouping.</p>
-  <p><strong>Impact:</strong> +35% curation accuracy.</p>
-  <p><strong>Stack:</strong> Python · SpaCy · NLTK · Scikit-learn · PubMed API</p>
-  </div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-  <div style="border:1px solid #1F6FEB;border-radius:10px;padding:14px;margin:6px;background:#0d1117;">
-  <h3>🩺 Dermalens</h3>
-  <p><strong>Type:</strong> Real-Time Skin Lesion Classifier</p>
-  <p>TensorFlow.js + MobileNet for in-browser lesion assessment.</p>
-  <p><strong>Impact:</strong> >85% indicative accuracy.</p>
-  <p><strong>Stack:</strong> JavaScript · TensorFlow.js · MobileNet · HTML5/CSS3</p>
-  </div>
-</td>
-<td width="50%">
-  <div style="border:1px solid #00B894;border-radius:10px;padding:14px;margin:6px;background:#0d1117;">
-  <h3>🧠 Resume Evaluator</h3>
-  <p><strong>Type:</strong> LLM-Powered Screening</p>
-  <p>Semantic scoring & role-fit heuristics reduce manual screening effort.</p>
-  <p><strong>Impact:</strong> -60% screening time.</p>
-  <p><strong>Stack:</strong> Python · LangChain · OpenAI API · Streamlit</p>
-  </div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-  <div style="border:1px solid #F39C12;border-radius:10px;padding:14px;margin:6px;background:#0d1117;">
-  <h3>💬 Mental Health Assistant</h3>
-  <p><strong>Type:</strong> Sentiment + LLM Hybrid</p>
-  <p>Contextual routing and empathetic responses via LLM + sentiment fusion.</p>
-  <p><strong>Stack:</strong> Python · LangChain · OpenAI API · Sentiment Models</p>
-  </div>
-</td>
-<td width="50%">
-  <div style="border:1px solid #2E9EF7;border-radius:10px;padding:14px;margin:6px;background:#0d1117;">
-  <h3>📈 Sales Forecasting</h3>
-  <p><strong>Type:</strong> Time-Series Analytics</p>
-  <p>Forecasting & dashboards for inventory optimization.</p>
-  <p><strong>Impact:</strong> +10% inventory turnover.</p>
-  <p><strong>Stack:</strong> Python · Pandas · Scikit-learn · Matplotlib · Seaborn</p>
-  </div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-  <div style="border:1px solid #6A5ACD;border-radius:10px;padding:14px;margin:6px;background:#0d1117;">
-  <h3>🧬 Variant Data Explorer</h3>
-  <p><strong>Status:</strong> In Development</p>
-  <p>Genomic variant filtering, pagination & interactive visual charts.</p>
-  <p><strong>Stack:</strong> FastAPI · MongoDB · Tailwind CSS · Chart.js</p>
-  </div>
-</td>
-<td width="50%">
-  <div style="border:1px solid #1F6FEB;border-radius:10px;padding:14px;margin:6px;background:#0d1117;">
-  <h3>💰 FinSmart AI</h3>
-  <p><strong>Status:</strong> In Development</p>
-  <p>Personal finance insights: expense extraction, budgeting, receipt OCR, conversational AI.</p>
-  <p><strong>Stack:</strong> React Native · TypeScript · OpenAI API · Firebase · Vision APIs</p>
-  </div>
-</td>
-</tr>
-</table>
-</div>
+| Project | Type | Impact | Core Stack |
+|---------|------|--------|------------|
+| 🎯 ReqNinja | API CLI | Workflow acceleration | Python · Typer · Requests |
+| 🔬 Biocue | NLP Curation | +35% accuracy | Python · SpaCy · NLTK |
+| 🩺 Dermalens | CV Classifier | >85% accuracy | TensorFlow.js · MobileNet |
+| 🧠 Resume Evaluator | LLM Screening | −60% time | LangChain · OpenAI · Streamlit |
+| 💬 Mental Health Assistant | Sentiment + LLM | Contextual routing | LangChain · Sentiment Models |
+| 📈 Sales Forecasting | Time-Series | +10% turnover | Pandas · Scikit-learn |
+| 🧬 Variant Explorer | Genomics (Dev) | Data filtering | FastAPI · MongoDB |
+| 💰 FinSmart AI | Finance (Dev) | Insight automation | React Native · OpenAI API |
 
 ---
 
