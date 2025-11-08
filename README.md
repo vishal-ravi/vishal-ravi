@@ -1,4 +1,3 @@
-# Vishal Ravi - Data Scientist & AI Engineer
 
 <div align="center">
   
@@ -41,10 +40,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Python">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="AI">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" alt="Machine Learning">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100" alt="Data Analysis">
-<img src="https://user-images.githubusercontent.com/74038190/212281773-2fcbde9d-9bb4-4e58-a6aa-57d04890c3e8.gif" width="100" alt="DevOps">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="800" alt="Tech Stack Divider">
+
 
 ### 🐍 Programming Languages
 
@@ -54,6 +51,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50"> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🧠 Machine Learning & AI
+
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50"> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"> ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -61,6 +59,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385061ea47.gif" width="50"> ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ### 📊 Data Analysis & Visualization
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50"> ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"> ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50"> ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -68,26 +67,29 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="50"> ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
 
 ### 🗄️ Databases & Big Data
+
 <img src="https://user-images.githubusercontent.com/74038190/212257481-7f1deefc-4365-4ba4-af6b-8d1e1d4a7282.gif" width="50"> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="50"> ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="50"> ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="50"> ![Redis](https://img.shields.io/badge/redis-CC0000?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ☁️ Cloud & DevOps
+
 <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd93f2-b9f4-4ade-872b-d7b61b1e7949.gif" width="50"> ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 <img src="https://user-images.githubusercontent.com/74038190/212281790-6cb5ab51-3fa0-4b01-9481-ba31c342b5b6.gif" width="50"> ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 <img src="https://user-images.githubusercontent.com/74038190/212281773-2fcbde9d-9bb4-4e58-a6aa-57d04890c3e8.gif" width="50"> ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 <img src="https://user-images.githubusercontent.com/74038190/212281779-2c6c938f-b1fa-4cb4-8f41-9f4b2c3a0e4e.gif" width="50"> ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 🚀 Web Development
+
 <img src="https://user-images.githubusercontent.com/74038190/212257434-5c62dc64-2ef0-484c-9b37-77ffa2c7fe76.gif" width="50"> ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 <img src="https://user-images.githubusercontent.com/74038190/212257440-ede8cbc5-0b44-4e3c-9f0c-b2e5e07a4d9b.gif" width="50"> ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 <img src="https://user-images.githubusercontent.com/74038190/212257448-7dd96c2c-2a1a-4f8e-9ae5-5ec7bd8e30d2.gif" width="50"> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="50"> ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
+
 ## 🔥 What I'm Working On
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -104,11 +106,11 @@
 ## 📊 Data Science Workflow
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385061ea47.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Data Processing">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Analysis">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="Modeling">
+
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Deployment">
 </div>
 
 ---
@@ -120,6 +122,7 @@
 <td width="50%">
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" alt="AI"> Deep Learning Image Classifier
+
 ![GitHub stars](https://img.shields.io/github/stars/vishal-ravi/image-classifier?style=social)
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25" alt="Python"> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -133,6 +136,7 @@ Advanced CNN model for multi-class image classification using TensorFlow/Keras. 
 <td width="50%">
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30" alt="Chart"> Stock Price Prediction Engine
+
 ![GitHub stars](https://img.shields.io/github/stars/vishal-ravi/stock-prediction?style=social)
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="25" alt="TensorFlow"> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
@@ -148,6 +152,7 @@ LSTM-based time series forecasting model for stock price prediction. Features re
 <td width="50%">
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" alt="NLP"> NLP Sentiment Analysis API
+
 ![GitHub stars](https://img.shields.io/github/stars/vishal-ravi/sentiment-api?style=social)
 <img src="https://user-images.githubusercontent.com/74038190/212257434-5c62dc64-2ef0-484c-9b37-77ffa2c7fe76.gif" width="25" alt="FastAPI"> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
@@ -161,6 +166,7 @@ Production-ready sentiment analysis API using transformer models. Deployed on AW
 <td width="50%">
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30" alt="DNA"> Bioinformatics Data Pipeline
+
 ![GitHub stars](https://img.shields.io/github/stars/vishal-ravi/biodata-pipeline?style=social)
 <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="25" alt="Spark"> ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat-square&logo=apachespark&logoColor=#E35A16)
 
@@ -175,7 +181,7 @@ Scalable data processing pipeline for genomic variant analysis. Processes TB-sca
 </table>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200" alt="Innovation">
   <br>
   <strong>🎯 Always pushing the boundaries of what's possible with data!</strong>
 </div>
@@ -185,7 +191,7 @@ Scalable data processing pipeline for genomic variant analysis. Processes TB-sca
 ## 📈 GitHub Analytics & Performance
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100" alt="Analytics">
 </div>
 
 <table width="100%">
@@ -214,21 +220,9 @@ Scalable data processing pipeline for genomic variant analysis. Processes TB-sca
   </tr>
 </table>
 
-<div align="center">
-  
-### 🏆 GitHub Trophies
-  
-<img src="https://github-profile-trophy.vercel.app/?username=vishal-ravi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%">
-
-</div>
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
 
 ### 📬 Reach Out For
 
