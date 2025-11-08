@@ -1,8 +1,17 @@
 <div align="center">
 
 <h1 style="margin:0;padding:0;">Vishal Ravi</h1>
+<p><strong>Python Developer • Data Scientist • Machine Learning Engineer</strong></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Python+Developer;Data+Scientist;Machine+Learning+Engineer;API+%26+Automation+Specialist;Building+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&duration=3500&pause=1200&color=2E9EF7&center=true&vCenter=true&width=900&lines=Designing+robust+APIs;Shipping+production+ML;Automating+data+pipelines;MLOps+for+reliability" alt="Typing Summary" />
+
+<p>
+  <img src="https://img.shields.io/badge/ML-Engineering-1F6FEB?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/NLP-Transformers-6A5ACD?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/APIs-FastAPI-2E9EF7?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MLOps-Docker%20%7C%20CI%2FCD-00B894?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Data-Pandas%20%7C%20NumPy-F39C12?style=flat-square&labelColor=0D1117" />
+</p>
 
 <p>
   <a href="mailto:dev.vishalravi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -105,41 +114,90 @@ Deployment: Container-first · Immutable artifacts · Rolling strategies
 
 ---
 
-## 🧪 Featured Projects
+## 🧪 Featured Projects (Card View)
 
-### 🎯 ReqNinja – API Testing & Automation CLI
-Open-source toolkit merging curl ergonomics with Python's requests power. Supports retries with exponential backoff, environment profiles, batch execution, rich formatting, and multi-auth strategies.  
-- Impact: Accelerates API debugging & scripting workflows  
-- Stack: Python, Typer, Rich, Requests, Packaging, GitHub Actions  
-- Repo: https://github.com/vishal-ravi/reqninja
-
-### 🔬 Biocue – Intelligent Research Curation
-NLP pipeline for PubMed ingestion, relevance scoring, keyword extraction & topic grouping improving curation accuracy by **35%**.  
-- Stack: Python, Scikit-learn, SpaCy, NLTK, PubMed API
-
-### 🩺 Dermalens – Real-Time Skin Lesion Classifier
-In-browser ML with TensorFlow.js + MobileNet for early-stage lesion assessment (> **85%** indicative accuracy).  
-- Stack: JavaScript, TensorFlow.js, MobileNet, HTML5/CSS3
-
-### 🧠 Resume Evaluator (LLM-Powered)
-Automated candidate evaluation with semantic scoring & role-fit heuristics reducing screening time by **60%**.  
-- Stack: Python, LangChain, OpenAI API, Streamlit
-
-### 💬 Mental Health Sentiment Assistant
-Hybrid LLM + sentiment engine providing contextual response routing and resource suggestions.  
-- Stack: Python, LangChain, OpenAI API, Sentiment Models
-
-### 📈 Sales Forecasting & Analytics
-Time-series modeling + exploratory dashboards improved inventory turnover by **10%**.  
-- Stack: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
-
-### 🧬 Variant Data Explorer (In Development)
-FastAPI + MongoDB platform for genomic variant filtering, pagination & interactive visual distribution charts.  
-- Stack: FastAPI, Tailwind CSS, MongoDB, Chart.js
-
-### 💰 FinSmart AI (In Development)
-Personal finance intelligence: expense extraction, budgeting heuristics, receipt OCR & conversational insights.  
-- Stack: React Native, TypeScript, OpenAI API, Firebase, Vision APIs
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+  <div style="border:1px solid #2E9EF7;border-radius:10px;padding:14px;margin:6px;background:#0d1117;">
+  <h3>🎯 ReqNinja</h3>
+  <p><strong>Type:</strong> API Testing & Automation CLI</p>
+  <p>Merges curl ergonomics with Python's requests power: retries, env profiles, batch mode, rich formatting, multi-auth.</p>
+  <p><strong>Impact:</strong> Accelerated debugging & scripting workflows.</p>
+  <p><strong>Stack:</strong> Python · Typer · Rich · Requests · GitHub Actions</p>
+  <p><a href="https://github.com/vishal-ravi/reqninja">Repository →</a></p>
+  </div>
+</td>
+<td width="50%">
+  <div style="border:1px solid #6A5ACD;border-radius:10px;padding:14px;margin:6px;background:#0d1117;">
+  <h3>🔬 Biocue</h3>
+  <p><strong>Type:</strong> Research Curation NLP</p>
+  <p>Ingests PubMed, applies relevance scoring, keyword extraction & topic grouping.</p>
+  <p><strong>Impact:</strong> +35% curation accuracy.</p>
+  <p><strong>Stack:</strong> Python · SpaCy · NLTK · Scikit-learn · PubMed API</p>
+  </div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <div style="border:1px solid #1F6FEB;border-radius:10px;padding:14px;margin:6px;background:#0d1117;">
+  <h3>🩺 Dermalens</h3>
+  <p><strong>Type:</strong> Real-Time Skin Lesion Classifier</p>
+  <p>TensorFlow.js + MobileNet for in-browser lesion assessment.</p>
+  <p><strong>Impact:</strong> >85% indicative accuracy.</p>
+  <p><strong>Stack:</strong> JavaScript · TensorFlow.js · MobileNet · HTML5/CSS3</p>
+  </div>
+</td>
+<td width="50%">
+  <div style="border:1px solid #00B894;border-radius:10px;padding:14px;margin:6px;background:#0d1117;">
+  <h3>🧠 Resume Evaluator</h3>
+  <p><strong>Type:</strong> LLM-Powered Screening</p>
+  <p>Semantic scoring & role-fit heuristics reduce manual screening effort.</p>
+  <p><strong>Impact:</strong> -60% screening time.</p>
+  <p><strong>Stack:</strong> Python · LangChain · OpenAI API · Streamlit</p>
+  </div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <div style="border:1px solid #F39C12;border-radius:10px;padding:14px;margin:6px;background:#0d1117;">
+  <h3>💬 Mental Health Assistant</h3>
+  <p><strong>Type:</strong> Sentiment + LLM Hybrid</p>
+  <p>Contextual routing and empathetic responses via LLM + sentiment fusion.</p>
+  <p><strong>Stack:</strong> Python · LangChain · OpenAI API · Sentiment Models</p>
+  </div>
+</td>
+<td width="50%">
+  <div style="border:1px solid #2E9EF7;border-radius:10px;padding:14px;margin:6px;background:#0d1117;">
+  <h3>📈 Sales Forecasting</h3>
+  <p><strong>Type:</strong> Time-Series Analytics</p>
+  <p>Forecasting & dashboards for inventory optimization.</p>
+  <p><strong>Impact:</strong> +10% inventory turnover.</p>
+  <p><strong>Stack:</strong> Python · Pandas · Scikit-learn · Matplotlib · Seaborn</p>
+  </div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <div style="border:1px solid #6A5ACD;border-radius:10px;padding:14px;margin:6px;background:#0d1117;">
+  <h3>🧬 Variant Data Explorer</h3>
+  <p><strong>Status:</strong> In Development</p>
+  <p>Genomic variant filtering, pagination & interactive visual charts.</p>
+  <p><strong>Stack:</strong> FastAPI · MongoDB · Tailwind CSS · Chart.js</p>
+  </div>
+</td>
+<td width="50%">
+  <div style="border:1px solid #1F6FEB;border-radius:10px;padding:14px;margin:6px;background:#0d1117;">
+  <h3>💰 FinSmart AI</h3>
+  <p><strong>Status:</strong> In Development</p>
+  <p>Personal finance insights: expense extraction, budgeting, receipt OCR, conversational AI.</p>
+  <p><strong>Stack:</strong> React Native · TypeScript · OpenAI API · Firebase · Vision APIs</p>
+  </div>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
