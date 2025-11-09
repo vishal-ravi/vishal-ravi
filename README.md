@@ -1,15 +1,9 @@
 # Hi there, I'm **Vishal Ravi** 👋  
 
 <div align="center">
-  <!-- Local Lottie Animation -->
-  <lottie-player 
-      src="./Man%20and%20robot%20with%20computers%20sitting%20together%20in%20workplace.json" 
-      background="transparent" 
-      speed="1" 
-      style="width: 400px; height: 300px;" 
-      loop 
-      autoplay>
-  </lottie-player>
+  <video src="./Man%20and%20robot%20with%20computers%20sitting%20together%20in%20workplace.mp4" width="400" height="300" autoplay loop muted playsinline>
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ---
