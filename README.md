@@ -1,6 +1,6 @@
 <!-- Banner / Personal Branding -->
 <p align="center">
-  <img src="./[removal.ai]_e2edfcf3-fb4f-4be6-9c4e-5d18c67e4060-35496093_2211-w026-n002-2759b-p1-2759_UYR8CM.png" alt="Vishal Ravi Banner" height="200"/>
+  <img src="./Removal-22.png" alt="Vishal Ravi Banner" height="200"/>
 </p>
 
 <h1 align="center">Hey 👋, I'm <span title="Pronounced: Vih-shaal">Vishal Ravi</span></h1>
