@@ -1,7 +1,15 @@
 # Hi there, I'm **Vishal Ravi** 👋  
 
 <div align="center">
-  <lottie-player src="https://lottie.host/2447d39f-6c47-4f84-9a1a-f8669127be54/q2TavsTisP.lottie" background="transparent" speed="1" style="width: 400px; height: 300px;" loop autoplay></lottie-player>
+  <!-- Local Lottie Animation -->
+  <lottie-player 
+      src="./Man%20and%20robot%20with%20computers%20sitting%20together%20in%20workplace.json" 
+      background="transparent" 
+      speed="1" 
+      style="width: 400px; height: 300px;" 
+      loop 
+      autoplay>
+  </lottie-player>
 </div>
 
 ---
@@ -43,11 +51,21 @@ I value **clarity**, **reliability**, and **real-world impact** in every project
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.vishalravi@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-ravi07) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://vishalravi.dev) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vishalravi_dev) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/vishalravi)
+<a href="mailto:dev.vishalravi@gmail.com">
+  <img src="./icons8-gmail-288(-xxhdpi).png" width="40px" alt="Gmail">
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/vishal-ravi07" target="_blank">
+  <img src="./icons8-linkedin-192(-xxxhdpi).png" width="40px" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/vishalravi_dev" target="_blank">
+  <img src="./icons8-twitter-192(-xxxhdpi).png" width="40px" alt="Twitter">
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/vishalravi.dev" target="_blank">
+  <img src="./icons8-instagram-384(-xxxhdpi).png" width="40px" alt="Instagram">
+</a>
 
 </div>
 
