@@ -1,64 +1,55 @@
-# Hi there, I'm **Vishal Ravi** 👋  
+<p align="center">
+  <img src="./[removal.ai]_e2edfcf3-fb4f-4be6-9c4e-5d18c67e4060-35496093_2211-w026-n002-2759b-p1-2759_UYR8CM.png"  height="200"/>
+</p>
 
-<div align="center">
-  <h1>Hi there, I'm <strong>Vishal Ravi</strong> 👋</h1>
-  <video src="./Man%20and%20robot%20with%20computers%20sitting%20together%20in%20workplace.mp4" width="400" height="300" autoplay loop muted playsinline>
-    Your browser does not support the video tag.
-  </video>
+<p style="text-align: center; font-size: 30px; font-family: 'Times New Roman';">
+  Hey 👋, I'm Vishal Ravi!
+</p>
 
-  <hr/>
-
-  <h2>🚀 <strong>Data Scientist | Python Developer | AI Enthusiast</strong></h2>
-  <p>Welcome to my GitHub!<br/>
-  I'm a <strong>Data Scientist</strong> and <strong>Python Developer</strong> passionate about building intelligent systems that connect data, algorithms, and automation.<br/>
-  My goal is to <strong>transform data into insight-driven applications</strong> that make a measurable impact.</p>
-
-  <hr/>
-
-  <h3>🧠 <strong>About Me</strong></h3>
-  <ul style="list-style-position: inside; padding-left:0; text-align:center;">
-    <li>Currently working on <strong>data science and machine learning projects</strong> combining <strong>NLP</strong>, <strong>automation</strong>, and <strong>predictive modeling</strong>.</li>
-    <li>Continuously exploring <strong>Deep Learning</strong>, <strong>LLMs</strong>, and <strong>MLOps</strong> to stay on the cutting edge of AI innovation.</li>
-    <li>Open to collaborating on <strong>open-source</strong>, <strong>AI/ML research</strong>, and <strong>backend automation</strong> projects.</li>
-    <li>Skilled in <strong>Python</strong>, <strong>data visualization</strong>, <strong>model deployment</strong>, and <strong>API development</strong>.</li>
-    <li>Passionate about designing <strong>tools and dashboards</strong> that make <strong>data analysis faster, cleaner, and more intuitive</strong>.</li>
-    <li>Outside of coding, I enjoy <strong>reading about neuroscience</strong>, <strong>exploring new tech</strong>, and <strong>mentoring budding developers</strong>.</li>
-  </ul>
-
-  <hr/>
-
-  <h3>💡 <strong>My Philosophy</strong></h3>
-  <blockquote style="text-align:center;">“Good code solves problems. Great code makes solutions effortless.”</blockquote>
-  <p>I value <strong>clarity</strong>, <strong>reliability</strong>, and <strong>real-world impact</strong> in every project I work on.</p>
-
-  <hr/>
-
-  <h2>🤝 <strong>Let’s Connect & Collaborate</strong></h2>
-
-  <h3>🔍 I’m open to</h3>
-  <p><strong>Data Science Collaborations</strong> | <strong>AI/ML Projects</strong> | <strong>Research Partnerships</strong> | <strong>Consulting Opportunities</strong></p>
-
-  <p>
-    <a href="mailto:dev.vishalravi@gmail.com"><img src="./icons8-gmail-288(-xxhdpi).png" width="40px" alt="Gmail"></a>
-    &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/vishal-ravi07" target="_blank"><img src="./icons8-linkedin-192(-xxxhdpi).png" width="40px" alt="LinkedIn"></a>
-    &nbsp;&nbsp;
-    <a href="https://twitter.com/vishalravi_dev" target="_blank"><img src="./icons8-twitter-192(-xxxhdpi).png" width="40px" alt="Twitter"></a>
-    &nbsp;&nbsp;
-    <a href="https://instagram.com/vishalravi.dev" target="_blank"><img src="./icons8-instagram-384(-xxxhdpi).png" width="40px" alt="Instagram"></a>
+ <p align="justify">
+     <samp>
+I am Vishal Ravi, a dedicated Data Scientist and Machine Learning Engineer with a strong foundation in system design, data analysis, and AI-driven automation. My work focuses on building intelligent, scalable solutions that combine statistical modeling, data pipelines, and robust backend systems.
+With experience across Python, TensorFlow, Scikit-learn, Flask, and MySQL, I develop end-to-end machine learning systems—from data ingestion and feature engineering to model deployment and monitoring. My GitHub showcases projects that integrate data science, ML modeling, and systems engineering principles to deliver real-world impact.<br><br>
+  </samp>
   </p>
+  <p align="center">
+      <a href="https://www.linkedin.com/in/vishalravi294"target="blank"><img align="center" src="./icons8-linkedin-192(-xxxhdpi).png" alt="aksia" height="40" width="40" /></a>
+         <a href ="mailto:dev.vishalravi@gmail.com"><img align="center" src="./icons8-gmail-288(-xxhdpi).png" height="40" width="40" /></a>
+         <a href="https://twitter.com/VishalR00038042" target="_blank"><img align="center" src="./icons8-twitter-192(-xxxhdpi).png" alt="Twitter" height="40" width="40" /></a>
+         <a href="https://www.instagram.com/mystic_man02/" target="_blank"><img align="center" src="./icons8-instagram-384(-xxxhdpi).png" alt="Instagram" height="40" width="40" /></a>
+          <a href="https://dev.to/vishalravi" target="_blank"><img align="center" src="https://cdn.simpleicons.org/dev.to/white" alt="Dev.to" height="50" width="40" /></a>
+</p>
+    <p align="center">
+        <a href="https://www.buymeacoffee.com/vishalravi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
+    </p>
+    <p align="center">
 
-  <hr/>
+</p>
+<hr>
 
-  <h3>⚙️ <strong>Tech Stack Overview</strong></h3>
-  <div align="center">
+  <br/>
+  <p align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="vishalravi's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vishal-ravi?cardType=github&theme=github-dark&preferLogin=false" />  </a>
+  <samp>
+     <br>Github Stats
+  </samp>
+</p>
+<br/>
+<br/>
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,linux,firebase,c,androidstudio,powershell,html,css,devto,xd,figma,git,heroku,js,vercel,bootstrap,flask,redux,tensorflow,vscode&perline=10" />
+  </a>
+  <samp>
+     <br>Languages and tools
+  </samp>
+</p>
 
-```python
-Languages:  Python, SQL, JavaScript  
-Libraries:  Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Plotly  
-Frameworks: Flask, FastAPI, Streamlit  
-Databases:  MySQL, MongoDB  
-Tools:  Docker, Git, Linux, VS Code, JupyterLab
-```
-  </div>
-</div>
+
+<hr>
+
+<!-- <h3 align='center'>Thank You for Supporting me.</h3> -->
+<p align='center'>
+<img src="https://media.tenor.com/scJmHcoziLYAAAAi/kelvin-working-from-home.gif" width="250" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<h3 align='center'>Thank You for supporting</h2>
+<hr>
