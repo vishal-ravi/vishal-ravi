@@ -38,7 +38,7 @@ With experience across Python, TensorFlow, Scikit-learn, Flask, and MySQL, I dev
 <br/>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,linux,firebase,c,androidstudio,powershell,html,css,devto,xd,figma,git,heroku,js,vercel,bootstrap,flask,redux,tensorflow,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,html,markdown,powershell,aws,firebase,gcp,heroku,netlify,vercel,anaconda,fastapi,flask,nodejs,opencv,mysql,mongodb,figma,tensorflow,github,gitlab,bitbucket,git,raspberrypi,amd,powerbi" />
   </a>
   <samp>
      <br>Languages and tools
